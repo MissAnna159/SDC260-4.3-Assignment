@@ -16,42 +16,42 @@ const products = [
         name: "Butter Croissant",
         description: "Flaky layers baked with rich European butter.",
         price: 4.50,
-        image: "C:\Users\navyb\OneDrive - ECPI University\BS Degree\SDC 260\Week 4\4.3\images\croissant.png",
+        image: "croissant.png",
         alt: "Fresh buttery croissant"
     },
     {
         name: "Vanilla Cupcake",
         description: "Classic vanilla cake topped with creamy frosting.",
         price: 3.75,
-        image: "C:\Users\navyb\OneDrive - ECPI University\BS Degree\SDC 260\Week 4\4.3\images\cupcake.png",
+        image: "cupcake.png",
         alt: "Vanilla cupcake with frosting"
     },
     {
         name: "Artisan Bread",
         description: "Handcrafted sourdough with a crispy crust.",
         price: 6.25,
-        image: "C:\Users\navyb\OneDrive - ECPI University\BS Degree\SDC 260\Week 4\4.3\images\bread,png",
+        image: "bread.png",
         alt: "Fresh artisan bread loaf"
     },
     {
         name: "Chocolate Chip Cookies",
         description: "Soft baked cookies filled with chocolate chunks.",
         price: 5.00,
-        image: "C:\Users\navyb\OneDrive - ECPI University\BS Degree\SDC 260\Week 4\4.3\images/cookies.png",
+        image: "cookies.png",
         alt: "Chocolate chip cookies"
     },
     {
         name: "Apple Pie Slice",
         description: "Classic cinnamon apple pie with flaky crust.",
         price: 4.95,
-        image: "C:\Users\navyb\OneDrive - ECPI University\BS Degree\SDC 260\Week 4\4.3\images/pie.png",
+        image: "pie.png",
         alt: "Apple pie slice"
     },
     {
         name: "Cinnamon Roll",
         description: "Soft cinnamon pastry drizzled with icing.",
         price: 4.25,
-        image: "C:\Users\navyb\OneDrive - ECPI University\BS Degree\SDC 260\Week 4\4.3\images/cinnamon-roll.png",
+        image: "cinnamon-roll.png",
         alt: "Warm cinnamon roll"
     }
 ];
